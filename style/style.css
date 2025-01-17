@@ -193,6 +193,9 @@ main > section{
     gap: 24px;
    
 }
+.sponsor-company{
+    gap: 50px;
+}
 
 
 }
