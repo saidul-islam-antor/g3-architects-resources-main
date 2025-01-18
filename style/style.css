@@ -230,7 +230,7 @@ main > section{
     margin-left: 30px;
   }
   .some-fact-container{
-    margin-left: 30px;
+    margin-left: 50px;
   }
 .facts-container,
 .sponsor-company{
@@ -250,9 +250,21 @@ main > section{
 
 #experience-badge{
     margin-top: 20px;
-   margin-left: 20px;
+   margin-left: 80px;
+   padding: 10px;
 
+   
 }
+#experience-year{
+    font-size: 3rem;
+}
+/* #experience-badge{
+    padding: 45px 42px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-left: -100px;
+    margin-top: -100px; */
+
 
 
 }
